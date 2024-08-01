@@ -35,7 +35,6 @@ function Main() {
             setLoading(true);
             setTimeout(() => {
                 setLoading(false);
-                navigate('/transcript')
             }, 3000);
             
         }else{
